@@ -1,0 +1,68 @@
+
+h1.heading{
+    font: 900 49px asap,arial;
+    color: #0186da;
+    letter-spacing: -1px;
+    text-shadow: 0 2px 2px #ddd;
+    word-wrap: break-word;
+    text-align: center;
+    margin-top: 50px;
+}
+h1.second_heading{
+    font: bold 36px asap,arial;
+    color: #505050;
+    letter-spacing: -1px;
+    text-align: center;
+    margin-top:20px;
+}
+
+#link_input{
+    width:400px;
+    height:60px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.form-group{
+    display: flex;
+}
+#shorten{
+    width: 200px;
+    height:60px;
+    margin-top:30px;
+    border:3px;
+    font: bold 17px lato,arial;
+    color:white;
+}
+.first_paragraph{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: #484848;
+}
+.card_heading{
+    font: bold 26px asap,arial;
+    color: #505050;
+    letter-spacing: 0;
+    text-align: center;
+}
+.second_heading_part{
+    text-align: center;
+}
+#premium{
+    width: 150px;
+    height:60px;
+    font: bold 17px lato,arial;
+    color:white;
+    margin-left: 250px;
+}
+.first_last>h2{
+    margin: 0 0 -10px 0;
+    font: bold 26px asap,arial;
+    color: #505050;
+    letter-spacing: 0;
+}
+.aligncenter{
+    text-align: center;
+}
