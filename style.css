@@ -66,3 +66,18 @@ h1.second_heading{
 .aligncenter{
     text-align: center;
 }
+.containers{
+    width:700px;
+    height: 200px;
+    border: 2px solid black;
+    display:flex;
+    justify-content: space-around;
+    align-content: space-between;
+}
+.column{
+    width: 200px;
+    height: fit-content;
+}
+.icon img{
+    margin-left: 60px;
+}
