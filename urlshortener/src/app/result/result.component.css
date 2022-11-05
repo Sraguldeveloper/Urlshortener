@@ -1,0 +1,52 @@
+h1{
+    margin: 0 0 -10px 0;
+    font: bold 36px asap,arial;
+    color: #505050;
+    letter-spacing: -1px;
+}
+p{
+    font: 16px "source sans pro",arial;
+    color: #484848;
+    line-height: 1.5;
+    text-align: left;
+    margin-top: 20px;
+}
+.container{
+    width: 1000px;
+}
+input{
+    width: 350px;
+    height: 50px;
+}
+form{
+    margin-left: 60px;
+}
+#copybutton{
+    font: bold 17px lato,arial;
+    color:white;
+}
+h2{
+    margin: 0 0 -10px 0;
+    font: bold 26px asap,arial;
+    color: #505050;
+    letter-spacing: 0;
+}
+#facebook,#twitter,#pin,#tum{
+    color:white;
+    border-radius: 2px;
+    margin-right: 5px;
+}
+#twitter{
+    background-color: #55acee;
+}
+#pin{
+    background-color: #d4374f;
+}
+#tum{
+    background-color: #243a4f;
+}
+#facebook{
+    background-color: #3b5998;
+}
+
+
