@@ -31,7 +31,6 @@ h1.second_heading{
     width: 200px;
     height:60px;
     margin-top:30px;
-    border:3px;
     font: bold 17px lato,arial;
     color:white;
 }
@@ -66,18 +65,38 @@ h1.second_heading{
 .aligncenter{
     text-align: center;
 }
-.containers{
-    width:700px;
-    height: 200px;
-    border: 2px solid black;
-    display:flex;
-    justify-content: space-around;
-    align-content: space-between;
+.last{
+    width:1000px;
+    height:500px;   
 }
 .column{
-    width: 200px;
+    width: 500px;
     height: fit-content;
 }
 .icon img{
-    margin-left: 60px;
+    margin-left: 150px;
+}
+.first_details,.second_last{
+    display: flex;
+}
+footer{
+    position:relative;
+    bottom: 0;
+    height:40px;
+    text-align: center;
+    font: 16px asap,arial,tahoma;
+    color: #eee;
+    background: #333;
+    width: 100%;
+    border-top: 5px solid #00a0db;
+    padding: 20px 0 100px;
+    line-height: 1.5;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+}
+li{
+    margin-left:10px;
 }
