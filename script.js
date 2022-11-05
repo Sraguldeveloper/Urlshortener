@@ -1,1 +1,0 @@
-document.getElementById('demo').innerHTML="Welcome to the vs code"
